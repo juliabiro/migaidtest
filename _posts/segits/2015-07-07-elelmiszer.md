@@ -59,8 +59,6 @@ A nem tartós élelmiszereket, kisebb, azonnal kiosztható dolgokat és az önk�
 
 
 
-<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1347.7420789986747!2d19.081605084579945!3d47.499961616993176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4741dc89ed85b587%3A0x6b75c3ede804dc7a!2zQnVkYXBlc3QsIEJhcm9zcyB0w6lyaSBhbHVsasOhcsOz!5e0!3m2!1sen!2shu!4v1439208100610" width="300" height="250" frameborder="0" style="border:0" allowfullscreen></iframe> -->
-
 
 {% include alert text='Rendszeresen figyeld a <a href="https://www.facebook.com/migrationaidhungary"><b>facebook-oldalunkat</b></a>, ahol minden nap megosztjuk, éppen mire van szükség, miből fogytunk ki!' %}
 
@@ -103,7 +101,7 @@ Ha nagyobb tárgyi vagy szolgáltatásbeli felajánlást szeretnél tenni, kérj
 **Online rendelés, csomagküldés**
 
 Ha külföldön vagy messze élsz, vagy valamiért nem tudsz fizikailag is megjelenni, de szívesen segítenél, akkor küldhetsz adományokat a raktárunkba postai úton, vagy akár online rendeléssel. Természetesen vedd figyelembe saját határaidat, senki nem várja el, hogy vagyonokat költs a saját pénzedből!
-Nagyszerű megoldás pl. egy TESCO, GRoby vagy METRO online rendelés leadása (online fizetéssel) a raktár címére.
+Nagyszerű megoldás pl. egy TESCO, GRoby vagy METRO online rendelés leadása (online fizetéssel) a Verseny utcai raktár címére.
 
 {% include alert info='Mivel a raktáriank megteltek, arra kérünk, hogy ha online rendelést szeretnél adományozni, azt ne most tedd, hanem majd 1-2 hét múlva. Akkor is biztosan szükség lesz rá.'  %}
 
