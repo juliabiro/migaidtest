@@ -19,6 +19,7 @@ Az InfoAid app célja a Magyarországra érkező menekültek gyors és hiteles i
 ![InfoAid app]({{site.urlimg}}/infoaid_app.png)
 
 Az InfoAid használatával tájékoztatást kapnak a menekültek olyan témákban, hogy:
+
 - milyen szabályok vonatkoznak rájuk
 - hol kaphatnak ellátást vagy mi történik a közlekedésben
 - hogy Magyarországon iható a csapvíz
@@ -34,11 +35,11 @@ Az információk jelenleg angol, arab, urdu és fárszi nyelven érhetőek el, �
 Az alkalmazást a [Google Play-ből lehet telepíteni](http://bit.ly/infoaid), jelenleg Android 3.0+ verzióra. Készül az IOS-re telepíthető app is. A telepítéshez termésetesen internetkapcsolat (WiFi) szükséges. 
 
 #### Telepítés QR kóddal
-A legegyszerűbb módja a telepítésnek, ha QR kód olcasó alkamazással leolvassa az alábbi képet (ilyen alkalmazás majdnem mindegyik okostelefonfon van):
+A legegyszerűbb módja a telepítésnek, ha QR kód olvasó alkamazással leolvassa az alábbi képet (ilyen alkalmazás majdnem mindegyik okostelefonfon van):
 ![InfoAid app]({{site.urlimg}}/infoaid_app_QRcode.png)
 
 #### Telepítés Google Playből
-Nyissátok meg telefonon a Google Play alkamazást, és keressetek az **InfoAid** kifejezésre. Az a megfelelő app, amelyiken a Migration Aid zöld logója van. 
+Ha még sincs QR kód olvasó, akkor nyissátok meg telefonon a Google Play alkamazást, és keressetek az **InfoAid** kifejezésre. Az a megfelelő app, amelyiken a Migration Aid zöld logója van. 
 
 A telepítés után ki kell választani a használni kívánt nyelvet, valamint a figyelni kívánt helyszíneket. Innentől kezdve az InfoAid alkalmazásban automatikusan megjelennek a Migration Aid által küldött értesítések.
 
