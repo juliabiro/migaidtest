@@ -11,30 +11,19 @@ header:
    image_fullwidth: "header.jpg"
 
 ---
-## Adománystop
-
-A határzár miatt az országba jelenleg csak nagyon kevés menedékkérő érkezik, az adományozók nagylelkűségének köszönhetően a raktáraink pedig ismét megteltek. Ennek következtében **<font color="red">a helyzet változásáig felfüggesztjük a további adományok fogadását</font>**, ide értve a pénzadományokat is.
- 
-Köszönet illet mindenkit, aki adománnyal, pénzzel, ötletekkel, az idejével, kétkezi munkával vagy egy kedves szóval támogatta a munkát! Hihetetlen és megindító szolidaritásról tett mindenki tanúbizonyságot!
- 
-Külön köszönet a Mikszáth Gyógyszertár az Egészségért és Robert Burns alapítványoknak, akik lehetővé tették számunkra pénzadományok fogadását, és levették a vállunkról az adminisztratív terheket, hogy minden erőnkkel a menedékkérők segítésére koncentrálhassunk.
-Ezeknek az ésszerű felhasználásán már dolgozunk és tájékoztatni fogunk benneteket arról, hogy mire fordítjuk az adományozott összegeket.
-
-{% include alert warning='Figyeljétek a <a href="https://www.facebook.com/migrationaidhungary"> facebook olalunkat!</a> '%}
 
 ## HOGYAN TUDOK SEGÍTENI?
 
 Alapvetően 4 féle módon:
 
-  - [vihetsz friss élelmiszert a tranzit zónákba ]({{ site.url }}{{ site.baseurl }}/segits/adomanyok/) 
   - [vihetsz tárgyi adományokat, tartós élelmiszert a raktárakba és bizonyos esetekben a tranzit zónákba ]({{ site.url }}{{ site.baseurl }}/segits/adomanyok/)
   - [támogathatod a gyógyszer keretünket, illetve rendelhetsz online a raktárunkba való szállítással]({{ site.url }}{{ site.baseurl }}/segits/penzadomanyok/).
   - [önkéntes munkával]({{ site.url }}{{ site.baseurl }}/segits/onkentesek/).
 
 
-Ha adományozni szeretnél, akkor azt a központi raktárban vagy a tranzitzónákban tudjuk fogadni. Hogy éppen hol mit, azt megtudhatod a [facebook olalunkról](https://www.facebook.com/migrationaidhungary), minden nap friss lista van, és nem minden raktárban fogadunk mindent.  
+Ha adományozni szeretnél, akkor azt a központi raktárban vagy a tranzitzónákban tudjuk fogadni. Hogy éppen hol mit, azt megtudhatod a [facebook oldalunkról](https://www.facebook.com/migrationaidhungary), minden nap friss lista van.
 
-{% include alert warning='Mindenképpen kövesd a <a href="https://www.facebook.com/migrationaidhungary"> facebook olalunkat!</a> '%}
+{% include alert warning='Mindenképpen kövesd a <a href="https://www.facebook.com/migrationaidhungary"> facebook oldalunkat!</a> '%}
 
 ## HELYSZÍNEK
 
@@ -44,40 +33,6 @@ Ha adományozni szeretnél, akkor azt a központi raktárban vagy a tranzitzón�
     Budapest 1076
     (a Keleti mellett, a Városliget felé eső oldalon) 
     mindennap 16.00 - 20.00 
-
-### **Nyugati tranzit állomás Migration Aid raktár**
-
-    Nyugati pályaudvari tranzit állomás
-    Budapest, Nyugati pályaudvar mellett, az Eiffel irodaház mögött 
-    (a 14-es vágány melletti kijárattól táblázva)
-    mindennap 9-22
-
-
-### **Keleti tranzit állomás Migration Aid raktár** 
-
-    Keleti pályaudvari tanzit állomás, aluljáró
-    Budapest, Baross tér VIII. ker., 
-    (a metró Rottenbiller utcai kijárata mellett)
-    mindennap 11.00 - 22.00
-
-
-### **Déli tranzit állomás Migration Aid raktár**
-
-    Déli pályaudvari tranzit állomás, aluljáró
-    Budapest, Déli pályaudvar II. ker., 
-    (a kerengőben az aktikvárium mellett)
-    mindennap 0-24
-
-<!--
-### **Mozsár utcai raktár**
-
-    Caledonia Étterem,
-    Budapest 1066. Mozsár utca 9 
-    mindennap 14.00.-19.00. 
-
--->
-**A Nyugati, Keleti és Déli pályaduvarokra is önkéntesekre van szükségünk** az adományok kiosztására és információszolgáltalásra! Gyere el barátaiddal együtt és segíts nekünk!
-
 
 <div class="row t30">
     <div class="medium-4 columns">
